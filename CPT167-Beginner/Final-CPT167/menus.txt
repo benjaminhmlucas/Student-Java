@@ -1,0 +1,24 @@
+menus
+
+"Would you like to add Voice Over IP to your package for $29.99?\n
+Type (1) for yes\n
+Type (2) for no\n
+(Press ENTER after selection):\n"
+
+"Would you like to add High Speed Internet to your package for $29.99?\n
+Type (1) for yes\n
+Type (2) for no\n
+(Press ENTER after selection):\n"
+
+"Would you like to have auto-draft from you bank Account\n
+for a 2% discount on your monthly total?\n
+Type (1) for yes\n
+Type (2) for no\n
+(Press ENTER after selection):\n"
+
+"****************INVALID ENTRY********************\n
+Type (1) for yes\n
+Type (2) for no\n
+(Press ENTER after selection):\n"
+
+
