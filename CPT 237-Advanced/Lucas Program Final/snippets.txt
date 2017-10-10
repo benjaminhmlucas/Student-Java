@@ -1,0 +1,12 @@
+public boolean loadManagers(String file) throws FileNotFoundException{			
+		
+		Scanner input = new Scanner(new File(file));
+
+		while(input.hasNext()){					
+			
+			String line = input.nextLine();
+			String[] fields = line.split(",");							
+			addNewManager(fields[0],fields[1]);				
+		}
+		return true;
+	}
