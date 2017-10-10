@@ -1,0 +1,12 @@
+Troll,1
+Jinn,1
+Wall
+Troll,0
+Goblin,1
+Troll,1
+Wall
+Troll,0
+Goblin,1
+Jinn,0
+Witch,8,5,1,10
+Ghost,9,4,1,10
