@@ -1,5 +1,5 @@
 Functional Java Programming<br>
-Final- Cable package cost calculator<br>
+Final- Cable package Cost Calculator<br>
 Midterm-Tuition Calculator<br>
 1-Bookstore Calculator<br>
 2-Yard Calculator 1.0<br>
